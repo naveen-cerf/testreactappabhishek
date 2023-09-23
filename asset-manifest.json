@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/github.io/testreactappabhishek/static/css/main.a89e756f.css",
+    "main.css": "/github.io/testreactappabhishek/static/css/main.56aead9b.css",
     "main.js": "/github.io/testreactappabhishek/static/js/main.f94116ba.js",
     "static/js/787.d6bddea9.chunk.js": "/github.io/testreactappabhishek/static/js/787.d6bddea9.chunk.js",
     "static/media/services-hero.jpg": "/github.io/testreactappabhishek/static/media/services-hero.b8072d0e48a373b04d82.jpg",
@@ -19,12 +19,12 @@
     "static/media/app-image-01.png": "/github.io/testreactappabhishek/static/media/app-image-01.ccbf3b7e469cf82ea285.png",
     "static/media/enquiry.jpg": "/github.io/testreactappabhishek/static/media/enquiry.37e9583485171054d7a5.jpg",
     "index.html": "/github.io/testreactappabhishek/index.html",
-    "main.a89e756f.css.map": "/github.io/testreactappabhishek/static/css/main.a89e756f.css.map",
+    "main.56aead9b.css.map": "/github.io/testreactappabhishek/static/css/main.56aead9b.css.map",
     "main.f94116ba.js.map": "/github.io/testreactappabhishek/static/js/main.f94116ba.js.map",
     "787.d6bddea9.chunk.js.map": "/github.io/testreactappabhishek/static/js/787.d6bddea9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a89e756f.css",
+    "static/css/main.56aead9b.css",
     "static/js/main.f94116ba.js"
   ]
 }
